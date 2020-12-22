@@ -1,0 +1,60 @@
+//Colores base del material de formación
+$brand-color-dark:#FFC558;
+$text-color-dark: #00223D;
+
+
+//Esto lo puede cambiar poe el color que quiera q sugiera el tema. (sE QUITA EL lighten)
+$brand-color-light: #E6EEF3;
+$text-color-light: $primary;
+$brand-color-secondary: #7CA7C9;
+
+.bg-azul-claro{
+    background-color: #B7CFDF;
+}
+.bg-naranja{
+    background-color: #FEC558;
+}
+
+.cont-flecha {
+    &::before {
+        content: '';
+        border-style: solid;
+        border-width: 28px 20px 0px 20px;
+        border-color: #FEC558 transparent transparent transparent;
+        position: absolute;
+        left: 50%;
+        transform: translateX(-50%);
+        z-index: 9;
+        transform: translateY(46px);
+    }    
+}
+.bg-azul-claro2{
+    background-color: #BCE5FA;
+}
+.borde-azul{
+    border:1px #50A1C9 solid;
+}
+.text-color-default{
+    color:#12263F;
+}
+
+.title-barra-horizontal {
+    &::after {
+        content: '';
+        position: absolute;
+        left: 41%;
+        transform: translateX(-50%);
+        z-index: 9;
+        transform: translateY(11px);
+        width: 57%;
+        height: 2px;
+        background-color: #FD8F25;
+    }    
+}
+
+.bg-curuva{
+    background-color: #FFC558;
+}
+.bg-rosado{
+    background-color: #FAE7B7;
+}
