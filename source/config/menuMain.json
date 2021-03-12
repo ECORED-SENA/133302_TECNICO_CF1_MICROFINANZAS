@@ -24,19 +24,19 @@
       {
         "icon": "fa fa-file-text-o",
         "slug": "tema-1",
-        "title": "1.1. Contexto regional",
+        "title": "1.1 Contexto regional",
         "anchor": "tema-11"
       },
       {
         "icon": "fa fa-file-text-o",
         "slug": "tema-1",
-        "title": "1.2. Sistema microfinanciero colombiano",
+        "title": "1.2 Sistema microfinanciero colombiano",
         "anchor": "tema-12"
       },
       {
         "icon": "fa fa-file-text-o",
         "slug": "tema-1",
-        "title": "1.3. Historia y su relevancia",
+        "title": "1.3 Historia y su relevancia",
         "anchor": "tema-13"
       }
     ]
@@ -52,13 +52,13 @@
       {
         "icon": "fa fa-file-text-o",
         "slug": "tema-2",
-        "title": "2.1. Tipos y características",
+        "title": "2.1 Tipos y características",
         "anchor": "tema-21"
       },
       {
         "icon": "fa fa-file-text-o",
         "slug": "tema-2",
-        "title": "2.2. Marco legal",
+        "title": "2.2 Marco legal",
         "anchor": "tema-22"
       }
     ]
@@ -74,67 +74,67 @@
       {
         "icon": "fa fa-file-text-o",
         "slug": "tema-3",
-        "title": "3.1. Características",
+        "title": "3.1 Características",
         "anchor": "tema-31"
       },
       {
         "icon": "fa fa-file-text-o",
         "slug": "tema-3",
-        "title": "3.2. Tipos de microcrédito",
+        "title": "3.2 Tipos de microcrédito",
         "anchor": "tema-32"
       },
       {
         "icon": "fa fa-file-text-o",
         "slug": "tema-3",
-        "title": "3.3. Requisitos",
+        "title": "3.3 Requisitos",
         "anchor": "tema-33"
       },
       {
         "icon": "fa fa-play-circle",
         "slug": "tema-3",
-        "title": "3.4. Comisión",
+        "title": "3.4 Comisión",
         "anchor": "tema-34"
       },
       {
         "icon": "fa fa-file-text-o",
         "slug": "tema-3",
-        "title": "3.5. Honorarios",
+        "title": "3.5 Honorarios",
         "anchor": "tema-35"
       },
       {
         "icon": "fa fa-file-text-o",
         "slug": "tema-3",
-        "title": "3.6. Monto",
+        "title": "3.6 Monto",
         "anchor": "tema-36"
       },
       {
         "icon": "fa fa-file-text-o",
         "slug": "tema-3",
-        "title": "3.7. Plazo",
+        "title": "3.7 Plazo",
         "anchor": "tema-37"
       },
       {
         "icon": "fa fa-file-text-o",
         "slug": "tema-3",
-        "title": "3.8. Tasa",
+        "title": "3.8 Tasa",
         "anchor": "tema-38"
       },
       {
         "icon": "fa fa-file-text-o",
         "slug": "tema-3",
-        "title": "3.9. Cuota",
+        "title": "3.9 Cuota",
         "anchor": "tema-39"
       },
       {
         "icon": "fa fa-file-text-o",
         "slug": "tema-3",
-        "title": "3.10. Ventajas del microcrédito",
+        "title": "3.10 Ventajas del microcrédito",
         "anchor": "tema-310"
       },
       {
         "icon": "fa fa-file-text-o",
         "slug": "tema-3",
-        "title": "3.11. Desventajas del microcrédito",
+        "title": "3.11 Desventajas del microcrédito",
         "anchor": "tema-311"
       }
     ]
